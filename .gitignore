@@ -169,3 +169,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+funding_data/binance_funding_rate_history_full.csv
